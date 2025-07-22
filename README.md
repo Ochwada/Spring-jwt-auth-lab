@@ -27,7 +27,7 @@ SpringJWTAuthLab/
 │   ├── main/
 │   │   ├── java/
 │   │   │   └── com.ochwada.jwt_starter_kit/
-│   │   │       ├── config/                  # Security configuration (JWT filter, CORS, etc.)
+│   │   │       ├── security/                  # Security configuration (JWT filter, CORS, etc.)
 │   │   │       ├── controller/              # Auth + secure API endpoints
 │   │   │       ├── model/                   # User and Role classes
 │   │   │       ├── service/                 # Authentication logic and JWT utilities
